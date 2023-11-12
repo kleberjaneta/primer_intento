@@ -36,6 +36,7 @@ public class CalculadoraSimple {
                     resultado = num1 / num2;
                     System.out.println("Resultado: " + resultado);
                 } else {
+		    System.out.println("Alerta!!");
                     System.out.println("Error: No se puede dividir por cero.");
                 }
                 break;
