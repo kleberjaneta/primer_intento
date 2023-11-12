@@ -31,6 +31,7 @@ public class CalculadoraSimple {
                 resultado = num1 * num2;
                 System.out.println("Resultado: " + resultado);
                 break;
+
             case '/':
                 if (num2 != 0) {
                     resultado = num1 / num2;
