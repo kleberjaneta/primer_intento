@@ -7,7 +7,7 @@ public class CalculadoraSimple {
 
         double num1, num2, resultado;
         char operador;
-
+		System.out.println("hola, Bienvenido");		
         System.out.println("Calculadora Simple");
         System.out.print("Ingresa el primer número: ");
         num1 = scanner.nextDouble();
